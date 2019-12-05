@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [解决vim中文乱码的问题](https://www.notexpect.com/articles/2019/12/05/1575553118208.html)
 * [Let's Encrypt 使用教程](https://www.notexpect.com/articles/2019/12/05/1575539312985.html)
 
 
